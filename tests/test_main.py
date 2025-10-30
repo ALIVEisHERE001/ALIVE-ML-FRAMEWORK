@@ -6,7 +6,7 @@ Tests for ALIVE-ML-FRAMEWORK
 import unittest
 from main import *
 
-class TestMlframework(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
